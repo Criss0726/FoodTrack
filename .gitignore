@@ -1,0 +1,24 @@
+# Dependencias de PHP
+/vendor/
+
+# Archivos de configuración local
+.env
+.env.*
+!.env.example
+
+# Configuración del editor
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales y registros
+*.tmp
+*.temp
+*.log
+
+# Copias de respaldo
+*.bak
